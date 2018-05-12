@@ -1,0 +1,35 @@
+_repo: Vanished-towers-and-chimes-of-Flanders_28288
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28288-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Edwards, George Wharton
+    birthdate: 1859
+    deathdate: 1950
+    gutenberg_agent_id: '3048'
+    url: http://www.gutenberg.org/2009/agents/3048
+    wikipedia: http://en.wikipedia.org/wiki/George_Wharton_Edwards
+description: Illustrated by the author.
+gutenberg_issued: '2009-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28288'
+  lccn: '16026993'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Flanders -- Description and travel'
+- !lcsh 'Church buildings -- Flanders'
+- !lcsh 'Chimes'
+- !lcsh 'Change ringing'
+- !lcc 'DH'
+tableOfContents: Malines, and some of the vanished towers -- Some carillons of Flanders
+  -- Dixmude -- Ypres -- Commines -- Bergues -- Nieuport -- Alost -- Courtrai -- Termonde
+  (Dendermonde) -- Louvain -- Douai -- Oudenaarde -- Furnes -- The artists of Malines
+  -- A word about the Belgians.
+title: Vanished towers and chimes of Flanders
+url: http://www.gutenberg.org/ebooks/28288

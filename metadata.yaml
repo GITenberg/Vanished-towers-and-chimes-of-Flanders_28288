@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3048
     wikipedia: http://en.wikipedia.org/wiki/George_Wharton_Edwards
 description: Illustrated by the author.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28288#Vanished-towers-and-chimes-of-Flanders
 gutenberg_issued: '2009-03-09'
 gutenberg_type: Text
 identifiers:
